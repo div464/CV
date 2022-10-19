@@ -4,13 +4,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    
+    <style>
+    body{
+          background-color: #00ffff;
+    }
+</style>
 </head>
 <body>
-<style>
-body{
-      background-color: #00ffff;
-}
-</style>
     <table>
         <tr><td><img src="imagedivesh-modified.png" width="250" height="250"></td>
         <td><h1>Divesh Jaiswal</h1>
